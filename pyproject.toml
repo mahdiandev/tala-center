@@ -1,0 +1,16 @@
+[project]
+name = "tala-center"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "httpx>=0.28.1",
+    "openpyxl>=3.1.5",
+    "persian-tools>=0.0.11",
+    "persiantools>=5.5.1",
+    "pydantic",
+    "pydantic-settings>=2.14.1",
+    "pyqt6>=6.11.0",
+    "xlrd>=2.0.2",
+]
