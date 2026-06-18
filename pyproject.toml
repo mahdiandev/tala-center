@@ -11,6 +11,12 @@ dependencies = [
     "persiantools>=5.5.1",
     "pydantic",
     "pydantic-settings>=2.14.1",
+    "pyinstaller>=6.20.0",
     "pyqt6>=6.11.0",
+    "pywin32>=312",
     "xlrd>=2.0.2",
 ]
+
+[[tool.uv.index]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+default = true
